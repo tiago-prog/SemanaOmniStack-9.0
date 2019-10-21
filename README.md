@@ -10,4 +10,4 @@ Está aplicação é um clone Airbnb chamado AirCnC (Code and Caffe), mas para p
  4. Para iniciar o app primeiro você terá que ter um aplicativo chamado Expo instalado no seu celular
  5. Seu celular terá que estar com o a depuração usb ligada 
  6. Você tem que ter um capo usb ligado no seu celular (com a depuração usb ligada) e no seu computador
- 7. Logo após você terá que entrar no terminal dentro da pasta da aplicação mobile e tera que executar o sequinte: `Expo run-android`. Se caso você estiver usando um IOS terá que executar: `Expo run-ios`
+ 7. Logo após você terá que entrar no terminal dentro da pasta da aplicação mobile e tera que executar o sequinte: `npm start`
