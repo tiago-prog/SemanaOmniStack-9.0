@@ -6,7 +6,7 @@ Está aplicação é um clone Airbnb chamado AirCnC (Code and Caffe), mas para p
  2. Inicie o backend usando: `npm run dev`
  3. Logo após iniciar o backend inicie o frontend usando: `npm start`, e a sua aplicação já estará rodando.
  
- # Como iniciar o aplicativo
+ # Como iniciar a aplicação mobile
  4. Para iniciar o app primeiro você terá que ter um aplicativo chamado Expo instalado no seu celular
  5. Seu celular terá que estar com o a depuração usb ligada 
  6. Você tem que ter um capo usb ligado no seu celular (com a depuração usb ligada) e no seu computador
